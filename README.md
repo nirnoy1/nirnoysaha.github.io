@@ -4,7 +4,7 @@ This is a personal portfolio website designed to showcase my frontend developmen
 
 ## 🔗 Live Demo
 
-Visit the live website: [nirnoysaha.github.io](https://nirnoysaha.github.io)
+Visit the live website: [nirnoysaha.github.io](https://nirnoy1.github.io/nirnoysaha.github.io/)
 
 ## 📁 Project Structure
 
